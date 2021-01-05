@@ -1,0 +1,115 @@
+*{ margin: 0; 
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+ 
+}
+
+h1{
+    font-size: 50px;
+    color: #363958;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    color:#363958 ;
+    
+}
+h3{
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+}
+p{
+    line-height: 20px;
+    color:#3E3E3E ;
+    text-align: justify;
+    margin-right: 10px;
+}
+
+.highlight{
+    color: #FF8367;
+}
+.top-container{
+    height: 1050px;
+}
+
+.half-area{
+    width: 40%;
+    float: left;
+    height: 400px;
+    margin-left: 10%;
+    margin-top: 3%;
+    line-height: 70px;
+    margin-bottom: 5%;
+    
+}
+.half-area img{
+    height: 100%;
+    
+}
+.button{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,#F7926E,#4F46CE);
+    padding: 8px 20px;
+
+}
+.container-middle{
+    height: 700px;
+    background-color: #F8F9FC;
+}
+
+
+#for-margin{
+    margin-left: 400px;
+}
+.area {
+    height: 270px;
+    width: 350px;
+    float: left;
+    margin-top: 50px;
+    background-color: #F7926E;
+    border-radius: 20px;
+    margin-right: 30px;
+    background-image: linear-gradient(45deg,#F7926E,#4F46CE);
+    box-shadow: 10px 10px 40px gray;
+
+}
+.area img{
+    height: 150px;
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.area p{
+    margin-left: 10px;
+    color: white;
+}
+.bottom-container{
+
+    height: 500px;
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px 220px;
+   
+} 
+.bottom-container p{
+    text-align: center;
+    padding-top: 240px;
+    padding-right: 500px;
+    color: white;
+    font-size: 59px;
+}
+.inquiry {
+    float: right;
+    padding-right: 600px;
+}
+#chat{
+    text-decoration: none;
+    color: white;
+    background-color: #F7926E;
+    padding: 12px;
+    border-radius: 4px;
+}
