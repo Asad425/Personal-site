@@ -52,7 +52,7 @@ p{
     color: white;
     border-radius: 5px;
     background-image: linear-gradient(45deg,#F7926E,#4F46CE);
-    padding: 8px 20px;
+    padding: 12px 25px;
 
 }
 .container-middle{
@@ -103,13 +103,58 @@ p{
     font-size: 59px;
 }
 .inquiry {
-    float: right;
-    padding-right: 600px;
+    float: left;
+    width: 50%;
+    height: 380px;
 }
-#chat{
-    text-decoration: none;
+.inquiry h1{
     color: white;
-    background-color: #F7926E;
-    padding: 12px;
-    border-radius: 4px;
+    font-size: 50px;
+    margin-left: 500px;
+    margin-top: 210px;
+    margin-right: 0px
+}
+.chat{
+    float: right;
+    width: 37%;
+    height: 140px;
+    margin-top: 240px;
+}
+.text{
+    float: left;
+    margin-top: 40px;
+    height: 150px;
+    width: 100%;
+}
+
+.text p{
+    color: black;
+    margin-top: -180px;
+    float: left;
+    margin-left: 45%;
+    font-size: 30px;
+    margin-bottom: 45px;
+}
+
+.text h3{
+    margin-left: 4%;
+    color: #000;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-right: 50px;
+}
+ 
+.icon{
+ 
+    height: 50px;
+    float: left;
+    margin-top: 80px;
+    align-items: center;
+    padding-left: 44%;
+
+}
+.iconShape{
+
+    height: 80%;
+    padding: 25px;
 }
